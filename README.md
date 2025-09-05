@@ -121,5 +121,5 @@ function checkPassword() {
 
 <h2>La pointe</h2>
 
-<p>Là où le Bassin s’ouvre sur l’océan, là où les vents racontent des histoires sur la folie des Hommes… Cherche l’ombre du passé, là où la terre a été fortifiée. Entre les dunes et l'océan par All. des Souchets un refuge oublié t’attend…
+<p>Là où le Bassin s’ouvre sur l’océan, là où les vents racontent des histoires sur la folie des Hommes… Cherche l’ombre du passé, là où la terre a été fortifiée. Entre les dunes et l'océan par All. des Souchets, un refuge oublié t’attend…
 </p>
