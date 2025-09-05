@@ -81,7 +81,7 @@ function checkPassword() {
 
     var pass = document.getElementById("password").value;
 
-    if(pass === "laperlenoire") { // Remplace MONCODE par ton mot de passe
+    if(pass === "LAPERLENOIRE") { // Remplace MONCODE par ton mot de passe
 
         document.getElementById("secret").style.display = "block";
 
